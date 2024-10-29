@@ -20,3 +20,9 @@ The Contact Management System is a Python application designed to help users man
   - `csv` or `json` for data handling (depending on your implementation)
   - `os` for file operations (if needed)
 
+    ### Installation
+
+1. Clone the repository:
+   ```bash
+   https://github.com/Kalyanreddyd/ContactManagementSystem.git
+
